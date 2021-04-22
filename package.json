@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twoSum.js",
+  "dependencies": {
+    "babel-jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.12",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
