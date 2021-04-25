@@ -1,5 +1,5 @@
 import { expect } from '@jest/globals'
-import lengthOfLastWord from '../src/LengthofLastWord'
+import lengthOfLastWord from '../src/lengthofLastWord'
 
 test('s = "Hello World",target 5 ', () => {
   const s = 'Hello World'

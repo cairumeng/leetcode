@@ -1,5 +1,4 @@
 import { expect } from '@jest/globals'
-// import twoSum from '../src/twoSum'
 import twoSum from '../src/twoSum2'
 
 test('nums = [2,7,11,15], target = 9', () => {
