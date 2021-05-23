@@ -16,17 +16,17 @@ import threeSum from '../src/3Sum'
 //   expect(threeSum(nums)).toEqual(output)
 // })
 
-// test('nums = [0]', () => {
-//   const nums = [0]
-//   const output = []
-//   expect(threeSum(nums)).toEqual(output)
-// })
+test('nums = [0]', () => {
+  const nums = [0]
+  const output = []
+  expect(threeSum(nums)).toEqual(output)
+})
 
-// test('nums = [0,0,0]', () => {
-//   const nums = [0, 0, 0]
-//   const output = [[0, 0, 0]]
-//   expect(threeSum(nums)).toEqual(output)
-// })
+test('nums = [0,0,0]', () => {
+  const nums = [0, 0, 0]
+  const output = [[0, 0, 0]]
+  expect(threeSum(nums)).toEqual(output)
+})
 
 test('nums = [0,0,0]', () => {
   const nums = [0, 0, 0, 0, 0, 0, 2, 3]
