@@ -21,7 +21,6 @@ var letterCombinations = function (digits) {
       base.map((c) => result.push(c + letters[j]))
     }
   }
-  console.log(result)
   return result
 }
 
