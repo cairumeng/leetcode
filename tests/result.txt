@@ -1,4 +1,0 @@
-
-> leetcode@1.0.0 test C:\Users\cairu\Workspace\leetcode
-> jest "combinationSum.test.js"
-
